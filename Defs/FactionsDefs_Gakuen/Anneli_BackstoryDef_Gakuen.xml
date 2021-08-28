@@ -54,7 +54,7 @@
 	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Gakuen_BaseballPlayer</defName>
 		<title>Annelitrice Gakuen Baseball Player</title>
-		<titleShort>Gakuen Army Baseball Player</titleShort>
+		<titleShort>Gakuen Baseball Player</titleShort>
 		<baseDescription>[PAWN_nameDef] acts as a Gakuen baseball player. Her team has won the national campaign for five consecutive years.</baseDescription>
 		<slot>Adulthood</slot>
 		<skillGains>

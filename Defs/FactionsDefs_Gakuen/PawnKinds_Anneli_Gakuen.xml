@@ -2,7 +2,7 @@
 <Defs>
 
 	<PawnKindDef Name="Anneli_Gakuen_KindBase" ParentName="Anneli_KindBase" Abstract="True">
-		<label>Anneli_Gakuen_KindBase</label>
+		<label>Gakuen_KindBase</label>
 		<itemQuality>Good</itemQuality>
 		<defaultFactionType>Anneli_Faction_Gakuen</defaultFactionType>
 		<isFighter>true</isFighter>
@@ -46,7 +46,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Kitakubuinn_A</defName>
-		<label>Anneli_Gakuen_Kitakubuinn_A</label>
+		<label>Gakuen_Kitakubuinn_A</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
@@ -66,7 +66,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Kitakubuinn_B</defName>
-		<label>Anneli_Gakuen_Kitakubuinn_B</label>
+		<label>Gakuen_Kitakubuinn_B</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
@@ -86,7 +86,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Undoubuin</defName>
-		<label>Anneli_Gakuen_Undoubuin</label>
+		<label>Gakuen_Undoubuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
@@ -106,7 +106,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Ouenbuin</defName>
-		<label>Anneli_Gakuen_Ouenbuin</label>
+		<label>Gakuen_Ouenbuin</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
@@ -126,7 +126,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Tsuppari</defName>
-		<label>Anneli_Gakuen_Tsuppari</label>
+		<label>Gakuen_Tsuppari</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
@@ -144,7 +144,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Sukeban</defName>
-		<label>Anneli_Gakuen_Sukeban</label>
+		<label>Gakuen_Sukeban</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
@@ -163,7 +163,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Sabagebuin_A</defName>
-		<label>Anneli_Gakuen_Sabagebuin_A</label>
+		<label>Gakuen_Sabagebuin_A</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>
@@ -180,7 +180,7 @@
 
 	<PawnKindDef ParentName="Anneli_Gakuen_KindBase">
 		<defName>Anneli_Gakuen_Sabagebuin_B</defName>
-		<label>Anneli_Gakuen_Sabagebuin_B</label>
+		<label>Gakuen_Sabagebuin_B</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelTags>

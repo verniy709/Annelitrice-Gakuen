@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Anneli_Faction_Gakuen.label>安娜缇娅斯学园</Anneli_Faction_Gakuen.label>
+  <Anneli_Faction_Gakuen.description>一群安娜缇娅斯认为她们应该体验更多高中生活. 她们的社会是由不同的社团组成, 这些社团不但是展示兴趣的舞台，更是基本的生产和执法单位. 每个学园社区的安娜缇娅斯都自称为学生，加入一个或多个社团. 每年她们都会靠抽签来决定一个“大先辈”来作为领袖. 虽然这样的生活听上去很美好，但他们的组织形式并不适合这样的蛮荒星球.她们没法组织起有效的军队和防御手段，由武斗派社团组织起来的民兵也不那么可靠.孱弱的安保手段导致学园经常被人劫掠甚至完全摧毁.即便这样的惨剧已经发生过很多次，但学园里的安娜缇娅斯完全没有为此做出改变的打算.每次学园被摧毁时，她们只是默默地进行着重建并重新融入到学园生活中.</Anneli_Faction_Gakuen.description>
+  <Anneli_Faction_Gakuen.fixedName>伪造的学园</Anneli_Faction_Gakuen.fixedName>
+  <Anneli_Faction_Gakuen.pawnsPlural>安娜缇娅斯</Anneli_Faction_Gakuen.pawnsPlural>
+  <Anneli_Faction_Gakuen.leaderTitle>先辈</Anneli_Faction_Gakuen.leaderTitle>
+
+
+</LanguageData>

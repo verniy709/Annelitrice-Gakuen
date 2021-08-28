@@ -4,7 +4,7 @@
 	<ResearchProjectDef>
 		<defName>Anneli_Gakuen_Apparels</defName>
 		<label>Annelitrice Gakuen Apparels</label>
-		<description>Annelitrice Gakuen apparels,</description>
+		<description>Annelitrice Gakuen apparels.</description>
 		<baseCost>800</baseCost>
 		<techLevel>Medieval</techLevel>
 		<prerequisites>

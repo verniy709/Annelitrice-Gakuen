@@ -38,8 +38,8 @@
 <!--Anneli_Gakuen_Bear-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
 		<defName>Anneli_Gakuen_Bear</defName>
-		<description>(Gakuen)6A_Bear</description>
-		<label>(Gakuen)6A_Bear</label>
+		<description>(Gakuen)6A_BearBarrette</description>
+		<label>(Gakuen)6A_BearBarrette</label>
 		<graphicData>
 			<texPath>6A/Anneli_Gakuen_Bear</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -59,8 +59,8 @@
 <!--Anneli_Gakuen_Bunny-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
 		<defName>Anneli_Gakuen_Bunny</defName>
-		<description>(Gakuen)6A_Bunny</description>
-		<label>(Gakuen)6A_Bunny</label>
+		<description>(Gakuen)6A_BunnyBarrette</description>
+		<label>(Gakuen)6A_BunnyBarrette</label>
 		<graphicData>
 			<texPath>6A/Anneli_Gakuen_Bunny</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -80,8 +80,8 @@
 <!--Anneli_Gakuen_Frog-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
 		<defName>Anneli_Gakuen_Frog</defName>
-		<description>(Gakuen)6A_Frog</description>
-		<label>(Gakuen)6A_Frog</label>
+		<description>(Gakuen)6A_FrogBarrette</description>
+		<label>(Gakuen)6A_FrogBarrette</label>
 		<graphicData>
 			<texPath>6A/Anneli_Gakuen_Frog</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -197,17 +197,17 @@
 		</stuffCategories>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Headset_A_Grey-->
+<!--Anneli_Gakuen_Headset_Grey_A-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
-		<defName>Anneli_Gakuen_Headset_A_Grey</defName>
-		<description>(Gakuen)6A_Headset_A_Grey</description>
-		<label>(Gakuen)6A_Headset_A_Grey</label>
+		<defName>Anneli_Gakuen_Headset_Grey_A</defName>
+		<description>(Gakuen)6A_Headset_Grey_A</description>
+		<label>(Gakuen)6A_Headset_Grey_A</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Headset_A_Grey</texPath>
+			<texPath>6A/Anneli_Gakuen_Headset_Grey_A</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Headset_A_Grey</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Gakuen_Headset_Grey_A</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubu_A</li>
 				<li>Anneli_Gakuen_Kitakubu_B</li>
@@ -231,17 +231,17 @@
 		</statBases>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Headset_A_Red-->
+<!--Anneli_Gakuen_Headset_Red_A-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
-		<defName>Anneli_Gakuen_Headset_A_Red</defName>
-		<description>(Gakuen)6A_Headset_A_Red</description>
-		<label>(Gakuen)6A_Headset_A_Red</label>
+		<defName>Anneli_Gakuen_Headset_Red_A</defName>
+		<description>(Gakuen)6A_Headset_Red_A</description>
+		<label>(Gakuen)6A_Headset_Red_A</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Headset_A_Red</texPath>
+			<texPath>6A/Anneli_Gakuen_Headset_Red_A</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Headset_A_Red</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Gakuen_Headset_Red_A</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubu_A</li>
 				<li>Anneli_Gakuen_Kitakubu_B</li>
@@ -265,17 +265,17 @@
 		</statBases>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Headset_B_Grey-->
+<!--Anneli_Gakuen_Headset_Grey_B-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
-		<defName>Anneli_Gakuen_Headset_B_Grey</defName>
-		<description>(Gakuen)6A_Headset_B_Grey</description>
-		<label>(Gakuen)6A_Headset_B_Grey</label>
+		<defName>Anneli_Gakuen_Headset_Grey_B</defName>
+		<description>(Gakuen)6A_Headset_Grey_B</description>
+		<label>(Gakuen)6A_Headset_Grey_B</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Headset_B_Grey</texPath>
+			<texPath>6A/Anneli_Gakuen_Headset_Grey_B</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Headset_B_Grey</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Gakuen_Headset_Grey_B</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubu_A</li>
 				<li>Anneli_Gakuen_Kitakubu_B</li>
@@ -299,17 +299,17 @@
 		</statBases>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Headset_B_Red-->
+<!--Anneli_Gakuen_Headset_Red_B-->
 	<ThingDef ParentName="Anneli_Gakuen_6A">
-		<defName>Anneli_Gakuen_Headset_B_Red</defName>
+		<defName>Anneli_Gakuen_Headset_Red_B</defName>
 		<description>(Gakuen)6A_Headset_B_Red</description>
 		<label>(Gakuen)6A_Headset_B_Red</label>
 		<graphicData>
-			<texPath>6A/Anneli_Gakuen_Headset_B_Red</texPath>
+			<texPath>6A/Anneli_Gakuen_Headset_Red_B</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>6A/Anneli_Gakuen_Headset_B_Red</wornGraphicPath>
+			<wornGraphicPath>6A/Anneli_Gakuen_Headset_Red_B</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Kitakubu_A</li>
 				<li>Anneli_Gakuen_Kitakubu_B</li>
