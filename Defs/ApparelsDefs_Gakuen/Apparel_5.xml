@@ -3,9 +3,9 @@
 
 	<ThingDef Name="Anneli_Gakuen_5" ParentName="Anneli_Gakuen_ApparelCommonBase"  Abstract="True">
 		<apparel>
-			<!-- <bodyPartGroups>
+			<bodyPartGroups>
 				<li>Shoulders</li>
-			</bodyPartGroups> -->
+			</bodyPartGroups>
 			<layers>
 				<li>Anneli_UpperShell_Tactical</li>
 			</layers>
@@ -44,9 +44,6 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<bodyPartGroups>
-				<li>Shoulders</li>
-			</bodyPartGroups>
 			<wornGraphicPath>5/Anneli_Gakuen_CivilianMOLLE</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Sabagebu_A</li>
@@ -83,9 +80,6 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<bodyPartGroups>
-				<li>Shoulders</li>
-			</bodyPartGroups>
 			<wornGraphicPath>5/Anneli_Gakuen_Cloak_A</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -125,9 +119,6 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<bodyPartGroups>
-				<li>Shoulders</li>
-			</bodyPartGroups>
 			<wornGraphicPath>5/Anneli_Gakuen_Cloak_B</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -167,9 +158,6 @@
 			<IncomingDamageFactor>-0.15</IncomingDamageFactor>
 		</equippedStatOffsets>
 		<apparel>
-			<bodyPartGroups>
-				<li>Shoulders</li>
-			</bodyPartGroups>
 			<wornGraphicPath>5/Anneli_Gakuen_Cloak_C</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
