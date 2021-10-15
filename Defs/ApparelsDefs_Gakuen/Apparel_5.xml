@@ -86,9 +86,6 @@
 			<bodyPartGroups>
 				<li>Shoulders</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_Cloak_A</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -131,9 +128,6 @@
 			<bodyPartGroups>
 				<li>Shoulders</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_Cloak_B</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -176,9 +170,6 @@
 			<bodyPartGroups>
 				<li>Shoulders</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_Cloak_C</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -220,9 +211,6 @@
 			<bodyPartGroups>
 				<li>Torso</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_Katana_A</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -264,9 +252,6 @@
 			<bodyPartGroups>
 				<li>Torso</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_Katana_B</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -308,9 +293,6 @@
 			<bodyPartGroups>
 				<li>Torso</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_KatanaX4_A</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
@@ -352,9 +334,6 @@
 			<bodyPartGroups>
 				<li>Torso</li>
 			</bodyPartGroups>
-			<layers>
-				<li>Belt</li>
-			</layers>
 			<wornGraphicPath>5/Anneli_Gakuen_KatanaX4_B</wornGraphicPath>
 			<wornGraphicData>
         		<renderUtilityAsPack>true</renderUtilityAsPack>
