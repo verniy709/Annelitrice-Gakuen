@@ -70,56 +70,6 @@
 			<ToxicSensitivity>-0.6</ToxicSensitivity>
 		</equippedStatOffsets>
 	</ThingDef>
-	
-<!--Anneli_Gakuen_Scarf_A-->
-	<ThingDef ParentName="Anneli_Gakuen_6C">
-		<defName>Anneli_Gakuen_Scarf_A</defName>
-		<description>(Gakuen)6C_Scarf_Grey</description>
-		<label>(Gakuen)6C_Scarf_Grey</label>
-		<graphicData>
-			<texPath>6C/Anneli_Gakuen_Scarf_A</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>6C/Anneli_Gakuen_Scarf_A</wornGraphicPath>
-			<tags>
-				<li>Anneli_Gakuen_Kitakubu_A</li>
-				<li>Anneli_Gakuen_Kitakubu_B</li>
-				<li>Anneli_Gakuen_Tsuppari</li>
-				<li>Anneli_Gakuen_Sabagebu_A</li>
-				<li>Anneli_Gakuen_Sabagebu_B</li>
-			</tags>
-		</apparel>
-		<equippedStatOffsets>
-			<ToxicSensitivity>-0.3</ToxicSensitivity>
-			<ComfyTemperatureMin>-2</ComfyTemperatureMin> 
-		</equippedStatOffsets>
-	</ThingDef>
-
-<!--Anneli_Gakuen_Scarf_B-->
-	<ThingDef ParentName="Anneli_Gakuen_6C">
-		<defName>Anneli_Gakuen_Scarf_B</defName>
-		<description>(Gakuen)6C_Scarf_Red</description>
-		<label>(Gakuen)6C_Scarf_Red</label>
-		<graphicData>
-			<texPath>6C/Anneli_Gakuen_Scarf_B</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>6C/Anneli_Gakuen_Scarf_B</wornGraphicPath>
-			<tags>
-				<li>Anneli_Gakuen_Kitakubu_A</li>
-				<li>Anneli_Gakuen_Kitakubu_B</li>
-				<li>Anneli_Gakuen_Sukeban</li>
-				<li>Anneli_Gakuen_Sabagebu_A</li>
-				<li>Anneli_Gakuen_Sabagebu_B</li>
-			</tags>
-		</apparel>
-		<equippedStatOffsets>
-			<ToxicSensitivity>-0.3</ToxicSensitivity>
-			<ComfyTemperatureMin>-2</ComfyTemperatureMin> 
-		</equippedStatOffsets>
-	</ThingDef>
 
 <!--Anneli_Gakuen_Toast-->
 	<ThingDef ParentName="Anneli_Gakuen_6C">

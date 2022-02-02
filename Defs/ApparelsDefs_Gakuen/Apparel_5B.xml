@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Gakuen_5B" ParentName="Anneli_Gakuen_ApparelCommonBase"  Abstract="True">
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<apparel>
+			<bodyPartGroups>
+				<li>Shoulders</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Anneli_UpperShell_Tactical</li>
+			</layers>
+			<tags>
+				<li>Anneli_Gakuen</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Gakuen_Cloak_A-->
+	<ThingDef ParentName="Anneli_Gakuen_5B">
+		<defName>Anneli_Gakuen_Cloak_A</defName>
+		<description>(Gakuen)5B_Cloak_A</description>
+		<label>(Gakuen)5B_Cloak_A</label>
+		<costStuffCount>25</costStuffCount>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<Mass>0.5</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>2</EquipDelay>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<IncomingDamageFactor>-0.15</IncomingDamageFactor>
+		</equippedStatOffsets>
+		<graphicData>
+			<texPath>5B/Anneli_Gakuen_Cloak_A</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Gakuen_Cloak_A</wornGraphicPath>
+			<wornGraphicData>
+        		<renderUtilityAsPack>true</renderUtilityAsPack>
+      		</wornGraphicData>
+			<tags>
+				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Sukeban</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+	
+<!--Anneli_Gakuen_Cloak_B-->
+	<ThingDef ParentName="Anneli_Gakuen_5B">
+		<defName>Anneli_Gakuen_Cloak_B</defName>
+		<description>(Gakuen)5B_Cloak_B</description>
+		<label>(Gakuen)5B_Cloak_B</label>
+		<costStuffCount>25</costStuffCount>
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<Mass>0.5</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>2</EquipDelay>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<IncomingDamageFactor>-0.15</IncomingDamageFactor>
+		</equippedStatOffsets>
+		<graphicData>
+			<texPath>5B/Anneli_Gakuen_Cloak_B</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Gakuen_Cloak_B</wornGraphicPath>
+			<wornGraphicData>
+        		<renderUtilityAsPack>true</renderUtilityAsPack>
+      		</wornGraphicData>
+			<tags>
+				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Sukeban</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Gakuen_Cloak_C-->
+	<ThingDef ParentName="Anneli_Gakuen_5B">
+		<defName>Anneli_Gakuen_Cloak_C</defName>
+		<description>(Gakuen)5B_Cloak_C</description>
+		<label>(Gakuen)5B_Cloak_C</label>
+		<graphicData>
+			<texPath>5B/Anneli_Gakuen_Cloak_C</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<costStuffCount>25</costStuffCount>
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<Mass>0.5</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>2</EquipDelay>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<IncomingDamageFactor>-0.15</IncomingDamageFactor>
+		</equippedStatOffsets>
+		<apparel>
+			<wornGraphicPath>5B/Anneli_Gakuen_Cloak_C</wornGraphicPath>
+			<wornGraphicData>
+        		<renderUtilityAsPack>true</renderUtilityAsPack>
+      		</wornGraphicData>
+			<tags>
+				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Sukeban</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+</Defs>

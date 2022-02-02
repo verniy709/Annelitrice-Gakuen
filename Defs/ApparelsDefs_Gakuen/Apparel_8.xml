@@ -4,13 +4,11 @@
 	<ThingDef Name="Anneli_Gakuen_8" ParentName="Anneli_Gakuen_ApparelCommonBase"  Abstract="True">
 		<costStuffCount>25</costStuffCount>
 		<stuffCategories>
-			<li>Metallic</li>
+			<li>Leathery</li>
+			<li>Fabric</li>
 		</stuffCategories>
-		<costList>
-      		<ComponentIndustrial>1</ComponentIndustrial>
-    	</costList>
 		<statBases>
-			<WorkToMake>12000</WorkToMake>
+			<WorkToMake>2500</WorkToMake>
 			<Mass>0.5</Mass>
 			<StuffEffectMultiplierArmor>0.01</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.01</StuffEffectMultiplierInsulation_Cold>
@@ -19,14 +17,15 @@
 			<Flammability>0.5</Flammability>
 		</statBases>
 		<equippedStatOffsets>
+			<CarryingCapacity>12</CarryingCapacity>
 			<WorkSpeedGlobal>0.05</WorkSpeedGlobal>
 		</equippedStatOffsets>
 		<apparel>
 			<bodyPartGroups>
-				<li>Torso</li>
+				<li>Shoulders</li>
 			</bodyPartGroups>
 			<layers>
-				<li>Anneli_Misc</li>
+				<li>Anneli_Bag</li>
 			</layers>
 			<tags>
 				<li>Anneli_Gakuen</li>
@@ -34,38 +33,44 @@
 		</apparel>
 	</ThingDef>
 
-<!--Anneli_Gakuen_WALKWOMAN-->
+<!--Anneli_Gakuen_ShoulderBag_Black-->
 	<ThingDef ParentName="Anneli_Gakuen_8">
-		<defName>Anneli_Gakuen_WALKWOMAN</defName>
-		<description>(Gakuen)8_WALKWOMAN</description>
-		<label>(Gakuen)8_WALKWOMAN</label>
+		<defName>Anneli_Gakuen_ShoulderBag_Black</defName>
+		<description>(Gakuen)8_ShoulderBag_Black</description>
+		<label>(Gakuen)8_ShoulderBag_Black</label>
 		<graphicData>
-			<texPath>8/Anneli_Gakuen_WALKWOMAN</texPath>
+			<texPath>8/Anneli_Gakuen_ShoulderBag_Black</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>8/Anneli_Gakuen_WALKWOMAN</wornGraphicPath>
-			<!-- <tags>
+			<wornGraphicPath>8/Anneli_Gakuen_ShoulderBag_Black</wornGraphicPath>
+			<tags>
 				<li>Anneli_Gakuen_Kitakubu_A</li>
-				<li>Anneli_Gakuen_Kitakubu_B</li>
 				<li>Anneli_Gakuen_Tsuppari</li>
 				<li>Anneli_Gakuen_Sukeban</li>
-			</tags> -->
+				<li>Anneli_Gakuen_Sabagebu_A</li>
+			</tags>
 		</apparel>
-		<tickerType>Normal</tickerType>
-		<comps>
-			<li Class="Annelitrice.CompProperties_PlayMusic">
-				<soundDefs>
-					<!-- <li>Anneli_Sound_SampleSongWalkwomanA</li>
-					<li>Anneli_Sound_SampleSongWalkwomanB</li> -->
-				</soundDefs>
-				<effecters>
-					<li>Anneli_Effecter_Note1</li>
-					<li>Anneli_Effecter_Note2</li>
-					<li>Anneli_Effecter_Note3</li>
-				</effecters>
-			</li>
-		</comps>
-	</ThingDef>	
+	</ThingDef>
+
+<!--Anneli_Gakuen_ShoulderBag_Blue-->
+	<ThingDef ParentName="Anneli_Gakuen_8">
+		<defName>Anneli_Gakuen_ShoulderBag_Blue</defName>
+		<description>(Gakuen)8_ShoulderBag_Blue</description>
+		<label>(Gakuen)8_ShoulderBag_Blue</label>
+		<graphicData>
+			<texPath>8/Anneli_Gakuen_ShoulderBag_Blue</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>8/Anneli_Gakuen_ShoulderBag_Blue</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Undoubu</li>
+				<li>Anneli_Gakuen_Kitakubu_B</li>
+				<li>Anneli_Gakuen_Ouenbu</li>
+				<li>Anneli_Gakuen_Sabagebu_B</li>
+			</tags>
+		</apparel>
+	</ThingDef>
 			
 </Defs>
