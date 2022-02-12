@@ -202,37 +202,21 @@
   <Make_Anneli_Gakuen_StabVest.description>制作 (学园)4_防刺背心.</Make_Anneli_Gakuen_StabVest.description>
   <Make_Anneli_Gakuen_StabVest.jobString>制作中 (学园)4_防刺背心.</Make_Anneli_Gakuen_StabVest.jobString>
 
-  <Make_Anneli_Gakuen_CivilianMOLLE.label>制作 (学园)5_民用携行具</Make_Anneli_Gakuen_CivilianMOLLE.label>
-  <Make_Anneli_Gakuen_CivilianMOLLE.description>制作 (学园)5_民用携行具.</Make_Anneli_Gakuen_CivilianMOLLE.description>
-  <Make_Anneli_Gakuen_CivilianMOLLE.jobString>制作中 (学园)5_民用携行具.</Make_Anneli_Gakuen_CivilianMOLLE.jobString>
+  <Make_Anneli_Gakuen_CivilianMOLLE.label>制作 (学园)5A_民用携行具</Make_Anneli_Gakuen_CivilianMOLLE.label>
+  <Make_Anneli_Gakuen_CivilianMOLLE.description>制作 (学园)5A_民用携行具.</Make_Anneli_Gakuen_CivilianMOLLE.description>
+  <Make_Anneli_Gakuen_CivilianMOLLE.jobString>制作中 (学园)5A_民用携行具.</Make_Anneli_Gakuen_CivilianMOLLE.jobString>
 
-  <Make_Anneli_Gakuen_Cloak_A.label>制作 (学园)5_斗篷_A</Make_Anneli_Gakuen_Cloak_A.label>
-  <Make_Anneli_Gakuen_Cloak_A.description>制作 (学园)5_斗篷_A.</Make_Anneli_Gakuen_Cloak_A.description>
-  <Make_Anneli_Gakuen_Cloak_A.jobString>制作中 (学园)5_斗篷_A.</Make_Anneli_Gakuen_Cloak_A.jobString>
+  <Make_Anneli_Gakuen_Cloak_A.label>制作 (学园)5B_斗篷_A</Make_Anneli_Gakuen_Cloak_A.label>
+  <Make_Anneli_Gakuen_Cloak_A.description>制作 (学园)5B_斗篷_A.</Make_Anneli_Gakuen_Cloak_A.description>
+  <Make_Anneli_Gakuen_Cloak_A.jobString>制作中 (学园)5B_斗篷_A.</Make_Anneli_Gakuen_Cloak_A.jobString>
 
-  <Make_Anneli_Gakuen_Cloak_B.label>制作 (学园)5_斗篷_B</Make_Anneli_Gakuen_Cloak_B.label>
-  <Make_Anneli_Gakuen_Cloak_B.description>制作 (学园)5_斗篷_B.</Make_Anneli_Gakuen_Cloak_B.description>
-  <Make_Anneli_Gakuen_Cloak_B.jobString>制作中 (学园)5_斗篷_B.</Make_Anneli_Gakuen_Cloak_B.jobString>
+  <Make_Anneli_Gakuen_Cloak_B.label>制作 (学园)5B_斗篷_B</Make_Anneli_Gakuen_Cloak_B.label>
+  <Make_Anneli_Gakuen_Cloak_B.description>制作 (学园)5B_斗篷_B.</Make_Anneli_Gakuen_Cloak_B.description>
+  <Make_Anneli_Gakuen_Cloak_B.jobString>制作中 (学园)5B_斗篷_B.</Make_Anneli_Gakuen_Cloak_B.jobString>
 
-  <Make_Anneli_Gakuen_Cloak_C.label>制作 (学园)5_斗篷_C</Make_Anneli_Gakuen_Cloak_C.label>
-  <Make_Anneli_Gakuen_Cloak_C.description>制作 (学园)5_斗篷_C.</Make_Anneli_Gakuen_Cloak_C.description>
-  <Make_Anneli_Gakuen_Cloak_C.jobString>制作中 (学园)5_斗篷_C.</Make_Anneli_Gakuen_Cloak_C.jobString>
-
-  <Make_Anneli_Gakuen_Katana_A.label>制作 (学园)5_武士刀_A</Make_Anneli_Gakuen_Katana_A.label>
-  <Make_Anneli_Gakuen_Katana_A.description>制作 (学园)5_武士刀_A.</Make_Anneli_Gakuen_Katana_A.description>
-  <Make_Anneli_Gakuen_Katana_A.jobString>制作中 (学园)5_武士刀_A.</Make_Anneli_Gakuen_Katana_A.jobString>
-
-  <Make_Anneli_Gakuen_Katana_B.label>制作 (学园)5_武士刀_B</Make_Anneli_Gakuen_Katana_B.label>
-  <Make_Anneli_Gakuen_Katana_B.description>制作 (学园)5_武士刀_B.</Make_Anneli_Gakuen_Katana_B.description>
-  <Make_Anneli_Gakuen_Katana_B.jobString>制作中 (学园)5_武士刀_B.</Make_Anneli_Gakuen_Katana_B.jobString>
-
-  <Make_Anneli_Gakuen_KatanaX4_A.label>制作 (学园)5_武士刀X4_A</Make_Anneli_Gakuen_KatanaX4_A.label>
-  <Make_Anneli_Gakuen_KatanaX4_A.description>制作 (学园)5_武士刀X4_A.</Make_Anneli_Gakuen_KatanaX4_A.description>
-  <Make_Anneli_Gakuen_KatanaX4_A.jobString>制作中 (学园)5_武士刀X4_A.</Make_Anneli_Gakuen_KatanaX4_A.jobString>
-
-  <Make_Anneli_Gakuen_KatanaX4_B.label>制作 (学园)5_武士刀X4_B</Make_Anneli_Gakuen_KatanaX4_B.label>
-  <Make_Anneli_Gakuen_KatanaX4_B.description>制作 (学园)5_武士刀X4_B.</Make_Anneli_Gakuen_KatanaX4_B.description>
-  <Make_Anneli_Gakuen_KatanaX4_B.jobString>制作中 (学园)5_武士刀X4_B.</Make_Anneli_Gakuen_KatanaX4_B.jobString>
+  <Make_Anneli_Gakuen_Cloak_C.label>制作 (学园)5B_斗篷_C</Make_Anneli_Gakuen_Cloak_C.label>
+  <Make_Anneli_Gakuen_Cloak_C.description>制作 (学园)5B_斗篷_C.</Make_Anneli_Gakuen_Cloak_C.description>
+  <Make_Anneli_Gakuen_Cloak_C.jobString>制作中 (学园)5B_斗篷_C.</Make_Anneli_Gakuen_Cloak_C.jobString>
 
   <Make_Anneli_Gakuen_Bear.label>制作 (学园)6A_小熊发饰</Make_Anneli_Gakuen_Bear.label>
   <Make_Anneli_Gakuen_Bear.description>制作 (学园)6A_小熊发饰.</Make_Anneli_Gakuen_Bear.description>
@@ -318,29 +302,45 @@
   <Make_Anneli_Gakuen_Mask_B.description>制作 (学园)6C_口罩_黑.</Make_Anneli_Gakuen_Mask_B.description>
   <Make_Anneli_Gakuen_Mask_B.jobString>制作中 (学园)6C_口罩_黑.</Make_Anneli_Gakuen_Mask_B.jobString>
 
-  <Make_Anneli_Gakuen_Scarf_A.label>制作 (学园)6C_围巾_灰</Make_Anneli_Gakuen_Scarf_A.label>
-  <Make_Anneli_Gakuen_Scarf_A.description>制作 (学园)6C_围巾_灰.</Make_Anneli_Gakuen_Scarf_A.description>
-  <Make_Anneli_Gakuen_Scarf_A.jobString>制作中 (学园)6C_围巾_灰.</Make_Anneli_Gakuen_Scarf_A.jobString>
-
-  <Make_Anneli_Gakuen_Scarf_B.label>制作 (学园)6C_围巾_红</Make_Anneli_Gakuen_Scarf_B.label>
-  <Make_Anneli_Gakuen_Scarf_B.description>制作 (学园)6C_围巾_红.</Make_Anneli_Gakuen_Scarf_B.description>
-  <Make_Anneli_Gakuen_Scarf_B.jobString>制作中 (学园)6C_围巾_红.</Make_Anneli_Gakuen_Scarf_B.jobString>
-
   <Make_Anneli_Gakuen_Toast.label>制作 (学园)6C_吐司</Make_Anneli_Gakuen_Toast.label>
   <Make_Anneli_Gakuen_Toast.description>制作 (学园)6C_吐司.</Make_Anneli_Gakuen_Toast.description>
   <Make_Anneli_Gakuen_Toast.jobString>制作中 (学园)6C_吐司.</Make_Anneli_Gakuen_Toast.jobString>
 
-  <Make_Anneli_Gakuen_ShoulderBag_Black.label>制作 (学园)7_书包_黑</Make_Anneli_Gakuen_ShoulderBag_Black.label>
-  <Make_Anneli_Gakuen_ShoulderBag_Black.description>制作 (学园)7_书包_黑.</Make_Anneli_Gakuen_ShoulderBag_Black.description>
-  <Make_Anneli_Gakuen_ShoulderBag_Black.jobString>制作中 (学园)7_书包_黑.</Make_Anneli_Gakuen_ShoulderBag_Black.jobString>
+  <Make_Anneli_Gakuen_Scarf_A.label>制作 (学园)6D_围巾_灰</Make_Anneli_Gakuen_Scarf_A.label>
+  <Make_Anneli_Gakuen_Scarf_A.description>制作 (学园)6D_围巾_灰.</Make_Anneli_Gakuen_Scarf_A.description>
+  <Make_Anneli_Gakuen_Scarf_A.jobString>制作中 (学园)6D_围巾_灰.</Make_Anneli_Gakuen_Scarf_A.jobString>
 
-  <Make_Anneli_Gakuen_ShoulderBag_Blue.label>制作 (学园)7_书包_蓝</Make_Anneli_Gakuen_ShoulderBag_Blue.label>
-  <Make_Anneli_Gakuen_ShoulderBag_Blue.description>制作 (学园)7_书包_蓝.</Make_Anneli_Gakuen_ShoulderBag_Blue.description>
-  <Make_Anneli_Gakuen_ShoulderBag_Blue.jobString>制作中 (学园)7_书包_蓝.</Make_Anneli_Gakuen_ShoulderBag_Blue.jobString>
+  <Make_Anneli_Gakuen_Scarf_B.label>制作 (学园)6D_围巾_红</Make_Anneli_Gakuen_Scarf_B.label>
+  <Make_Anneli_Gakuen_Scarf_B.description>制作 (学园)6D_围巾_红.</Make_Anneli_Gakuen_Scarf_B.description>
+  <Make_Anneli_Gakuen_Scarf_B.jobString>制作中 (学园)6D_围巾_红.</Make_Anneli_Gakuen_Scarf_B.jobString>
 
-  <Make_Anneli_Gakuen_WALKWOMAN.label>制作 (学园)8_WALKWOMAN</Make_Anneli_Gakuen_WALKWOMAN.label>
-  <Make_Anneli_Gakuen_WALKWOMAN.description>制作 (学园)8_WALKWOMAN.</Make_Anneli_Gakuen_WALKWOMAN.description>
-  <Make_Anneli_Gakuen_WALKWOMAN.jobString>制作中 (学园)8_WALKWOMAN.</Make_Anneli_Gakuen_WALKWOMAN.jobString>
+  <Make_Anneli_Gakuen_Katana_A.label>制作 (学园)7B_武士刀_A</Make_Anneli_Gakuen_Katana_A.label>
+  <Make_Anneli_Gakuen_Katana_A.description>制作 (学园)7B_武士刀_A.</Make_Anneli_Gakuen_Katana_A.description>
+  <Make_Anneli_Gakuen_Katana_A.jobString>制作中 (学园)7B_武士刀_A.</Make_Anneli_Gakuen_Katana_A.jobString>
+
+  <Make_Anneli_Gakuen_Katana_B.label>制作 (学园)7B_武士刀_B</Make_Anneli_Gakuen_Katana_B.label>
+  <Make_Anneli_Gakuen_Katana_B.description>制作 (学园)7B_武士刀_B.</Make_Anneli_Gakuen_Katana_B.description>
+  <Make_Anneli_Gakuen_Katana_B.jobString>制作中 (学园)7B_武士刀_B.</Make_Anneli_Gakuen_Katana_B.jobString>
+
+  <Make_Anneli_Gakuen_KatanaX4_A.label>制作 (学园)7B_武士刀X4_A</Make_Anneli_Gakuen_KatanaX4_A.label>
+  <Make_Anneli_Gakuen_KatanaX4_A.description>制作 (学园)7B_武士刀X4_A.</Make_Anneli_Gakuen_KatanaX4_A.description>
+  <Make_Anneli_Gakuen_KatanaX4_A.jobString>制作中 (学园)7B_武士刀X4_A.</Make_Anneli_Gakuen_KatanaX4_A.jobString>
+
+  <Make_Anneli_Gakuen_KatanaX4_B.label>制作 (学园)7B_武士刀X4_B</Make_Anneli_Gakuen_KatanaX4_B.label>
+  <Make_Anneli_Gakuen_KatanaX4_B.description>制作 (学园)7B_武士刀X4_B.</Make_Anneli_Gakuen_KatanaX4_B.description>
+  <Make_Anneli_Gakuen_KatanaX4_B.jobString>制作中 (学园)7B_武士刀X4_B.</Make_Anneli_Gakuen_KatanaX4_B.jobString>
+
+  <Make_Anneli_Gakuen_ShoulderBag_Black.label>制作 (学园)8_书包_黑</Make_Anneli_Gakuen_ShoulderBag_Black.label>
+  <Make_Anneli_Gakuen_ShoulderBag_Black.description>制作 (学园)8_书包_黑.</Make_Anneli_Gakuen_ShoulderBag_Black.description>
+  <Make_Anneli_Gakuen_ShoulderBag_Black.jobString>制作中 (学园)8_书包_黑.</Make_Anneli_Gakuen_ShoulderBag_Black.jobString>
+
+  <Make_Anneli_Gakuen_ShoulderBag_Blue.label>制作 (学园)8_书包_蓝</Make_Anneli_Gakuen_ShoulderBag_Blue.label>
+  <Make_Anneli_Gakuen_ShoulderBag_Blue.description>制作 (学园)8_书包_蓝.</Make_Anneli_Gakuen_ShoulderBag_Blue.description>
+  <Make_Anneli_Gakuen_ShoulderBag_Blue.jobString>制作中 (学园)8_书包_蓝.</Make_Anneli_Gakuen_ShoulderBag_Blue.jobString>
+
+  <Make_Anneli_Gakuen_WALKWOMAN.label>制作 (学园)9_WALKWOMAN</Make_Anneli_Gakuen_WALKWOMAN.label>
+  <Make_Anneli_Gakuen_WALKWOMAN.description>制作 (学园)9_WALKWOMAN.</Make_Anneli_Gakuen_WALKWOMAN.description>
+  <Make_Anneli_Gakuen_WALKWOMAN.jobString>制作中 (学园)9_WALKWOMAN.</Make_Anneli_Gakuen_WALKWOMAN.jobString>
 
 
 </LanguageData>
