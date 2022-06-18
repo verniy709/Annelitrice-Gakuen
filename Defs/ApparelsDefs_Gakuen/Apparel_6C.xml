@@ -8,14 +8,17 @@
 			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
-			<WorkToMake>1000</WorkToMake>
+			<WorkToMake>100</WorkToMake>
 			<Mass>0.1</Mass>
-			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.5</Flammability>
 		</statBases>
+		<equippedStatOffsets>
+			<ToxicSensitivity>-0.6</ToxicSensitivity>
+		</equippedStatOffsets>
 		<apparel>
 			<useWornGraphicMask>false</useWornGraphicMask>
 			<forceRenderUnderHair>true</forceRenderUnderHair>
@@ -46,9 +49,6 @@
 				<li>Anneli_Gakuen_Common</li>
 			</tags>
 		</apparel>
-		<equippedStatOffsets>
-			<ToxicSensitivity>-0.6</ToxicSensitivity>
-		</equippedStatOffsets>
 	</ThingDef>
 
 <!--Anneli_Gakuen_Mask_B-->
@@ -66,9 +66,6 @@
 				<li>Anneli_Gakuen_Common</li>
 			</tags>
 		</apparel>
-		<equippedStatOffsets>
-			<ToxicSensitivity>-0.6</ToxicSensitivity>
-		</equippedStatOffsets>
 	</ThingDef>
 
 <!--Anneli_Gakuen_Toast-->

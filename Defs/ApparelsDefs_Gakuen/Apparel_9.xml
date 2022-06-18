@@ -2,7 +2,7 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Gakuen_9" ParentName="Anneli_Gakuen_ApparelSpecialBase"  Abstract="True">
-		<costStuffCount>25</costStuffCount>
+		<costStuffCount>1</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
@@ -10,13 +10,13 @@
       		<ComponentIndustrial>1</ComponentIndustrial>
     	</costList>
 		<statBases>
-			<WorkToMake>12000</WorkToMake>
+			<WorkToMake>1000</WorkToMake>
 			<Mass>0.5</Mass>
 			<StuffEffectMultiplierArmor>0.01</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.01</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>0.01</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>2</EquipDelay>
-			<Flammability>0.5</Flammability>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.15</Flammability>
 		</statBases>
 		<equippedStatOffsets>
 			<WorkSpeedGlobal>0.05</WorkSpeedGlobal>
