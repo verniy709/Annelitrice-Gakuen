@@ -26,7 +26,7 @@
 				<li>Torso</li>
 			</bodyPartGroups>
 			<layers>
-				<li>Anneli_Misc</li>
+				<li>Anneli_OnSkin</li>
 			</layers>
 			<tags>
 				<li>Anneli_Gakuen</li>
@@ -67,5 +67,31 @@
 			</li>
 		</comps>
 	</ThingDef>	
+
+	<!--Anneli_Gakuen_KneePads-->
+	<ThingDef ParentName="Anneli_Gakuen_9">
+		<defName>Anneli_Gakuen_KneePads</defName>
+		<description>(Gakuen)9_KneePads</description>
+		<label>(Gakuen)9_KneePads</label>
+		<graphicData>
+			<texPath>9/Anneli_Gakuen_KneePads</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>9/Anneli_Gakuen_KneePads</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Common</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(1,1,1)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
 			
 </Defs>

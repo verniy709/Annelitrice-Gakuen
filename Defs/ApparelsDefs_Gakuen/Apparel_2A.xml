@@ -38,136 +38,160 @@
 		</apparel>
 	</ThingDef>
 
-<!--Anneli_Gakuen_CheerLeaderTop-->
+<!--Anneli_Gakuen_SailorSuitA-->
 	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_CheerLeaderTop</defName>
-		<description>(Gakuen)2A_CheerLeaderTop</description>
-		<label>(Gakuen)2A_CheerLeaderTop</label>
+		<defName>Anneli_Gakuen_SailorSuitA</defName>
+		<description>(Gakuen)2A_SailorSuitA</description>
+		<label>(Gakuen)2A_SailorSuitA</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_CheerLeaderTop</texPath>
+			<texPath>2A/Anneli_Gakuen_SailorSuitA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_CheerLeaderTop</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Gakuen_SailorSuitA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Gakuen_Ouenbu</li>
+				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(65,80,115,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_GymShirt-->
+<!--Anneli_Gakuen_SailorSuitB-->
 	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_GymShirt</defName>
-		<description>(Gakuen)2A_GymShirt</description>
-		<label>(Gakuen)2A_GymShirt</label>
+		<defName>Anneli_Gakuen_SailorSuitB</defName>
+		<description>(Gakuen)2A_SailorSuitB</description>
+		<label>(Gakuen)2A_SailorSuitB</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_GymShirt</texPath>
+			<texPath>2A/Anneli_Gakuen_SailorSuitB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_GymShirt</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Gakuen_SailorSuitB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Gakuen_Undoubu</li>
-				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(75,65,70,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_SailotSuit_A-->
+<!--Anneli_Gakuen_SailorCropTopA-->
 	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_SailotSuit_A</defName>
-		<description>(Gakuen)2A_SailotSuit_White</description>
-		<label>(Gakuen)2A_SailotSuit_White</label>
+		<defName>Anneli_Gakuen_SailorCropTopA</defName>
+		<description>(Gakuen)2A_SailorCropTopA</description>
+		<label>(Gakuen)2A_SailorCropTopA</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailotSuit_A</texPath>
+			<texPath>2A/Anneli_Gakuen_SailorCropTopA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailotSuit_A</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Gakuen_SailorCropTopA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Gakuen_Kitakubu_A</li>
-				<li>Anneli_Gakuen_Sabagebu_A</li>
+				<li>Anneli_Gakuen_Red</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(200,60,60,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_SailotSuit_B-->
+<!--Anneli_Gakuen_SailorCropTopB-->
 	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_SailotSuit_B</defName>
-		<description>(Gakuen)2A_SailotSuit_Black</description>
-		<label>(Gakuen)2A_SailotSuit_Black</label>
+		<defName>Anneli_Gakuen_SailorCropTopB</defName>
+		<description>(Gakuen)2A_SailorCropTopB</description>
+		<label>(Gakuen)2A_SailorCropTopB</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailotSuit_B</texPath>
+			<texPath>2A/Anneli_Gakuen_SailorCropTopB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailotSuit_B</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Gakuen_SailorCropTopB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Gakuen_Sukeban</li>
+				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(75,65,70,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-
-<!--Anneli_Gakuen_SailotSuit_C-->
+<!--Anneli_Gakuen_ShirtA-->
 	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_SailotSuit_C</defName>
-		<description>(Gakuen)2A_SailotSuit_Blue</description>
-		<label>(Gakuen)2A_SailotSuit_Blue</label>
+		<defName>Anneli_Gakuen_ShirtA</defName>
+		<description>(Gakuen)2A_ShirtA</description>
+		<label>(Gakuen)2A_ShirtA</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_SailotSuit_C</texPath>
+			<texPath>2A/Anneli_Gakuen_ShirtA</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_SailotSuit_C</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Gakuen_ShirtA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Gakuen_Kitakubu_B</li>
-				<li>Anneli_Gakuen_Sabagebu_B</li>
+				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(75,65,70,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Shirt_A-->
+<!--Anneli_Gakuen_ShirtB-->
 	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_Shirt_A</defName>
-		<description>(Gakuen)2A_Shirt_A</description>
-		<label>(Gakuen)2A_Shirt_A</label>
+		<defName>Anneli_Gakuen_ShirtB</defName>
+		<description>(Gakuen)2A_ShirtB</description>
+		<label>(Gakuen)2A_ShirtB</label>
 		<graphicData>
-			<texPath>2A/Anneli_Gakuen_Shirt_A</texPath>
+			<texPath>2A/Anneli_Gakuen_ShirtB</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_Shirt_A</wornGraphicPath>
+			<wornGraphicPath>2A/Anneli_Gakuen_ShirtB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Gakuen_Kitakubu_A</li>
-				<li>Anneli_Gakuen_Kitakubu_B</li>
-				<li>Anneli_Gakuen_Tsuppari</li>
-				<li>Anneli_Gakuen_Sukeban</li>
-				<li>Anneli_Gakuen_Sabagebu_A</li>
-				<li>Anneli_Gakuen_Sabagebu_B</li>
+				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(75,65,70,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Shirt_B-->
-	<ThingDef ParentName="Anneli_Gakuen_2A">
-		<defName>Anneli_Gakuen_Shirt_B</defName>
-		<description>(Gakuen)2A_Shirt_B</description>
-		<label>(Gakuen)2A_Shirt_B</label>
-		<graphicData>
-			<texPath>2A/Anneli_Gakuen_Shirt_B</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>2A/Anneli_Gakuen_Shirt_B</wornGraphicPath>
-			<tags>
-				<li>Anneli_Gakuen_Kitakubu_A</li>
-				<li>Anneli_Gakuen_Kitakubu_B</li>
-				<li>Anneli_Gakuen_Tsuppari</li>
-				<li>Anneli_Gakuen_Sukeban</li>
-				<li>Anneli_Gakuen_Sabagebu_A</li>
-				<li>Anneli_Gakuen_Sabagebu_B</li>
-			</tags>
-		</apparel>
-	</ThingDef>		
 </Defs>

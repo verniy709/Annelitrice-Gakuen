@@ -34,38 +34,108 @@
 		</apparel>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Bra_A-->
+<!--Anneli_Gakuen_Bra-->
 	<ThingDef ParentName="Anneli_Gakuen_1A">
-		<defName>Anneli_Gakuen_Bra_A</defName>
-		<description>(Gakuen)1A_Bra_A</description>
-		<label>(Gakuen)1A_Bra_A</label>
+		<defName>Anneli_Gakuen_Bra</defName>
+		<description>(Gakuen)1A_Bra</description>
+		<label>(Gakuen)1A_Bra</label>
 		<graphicData>
-			<texPath>1A/Anneli_Gakuen_Bra_A</texPath>
+			<texPath>1A/Anneli_Gakuen_Bra</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1A/Anneli_Gakuen_Bra_A</wornGraphicPath>
+			<wornGraphicPath>1A/Anneli_Gakuen_Bra</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(250,240,240,225)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_Gakuen_Bra_B-->
+<!--Anneli_Gakuen_CatBra-->
 	<ThingDef ParentName="Anneli_Gakuen_1A">
-		<defName>Anneli_Gakuen_Bra_B</defName>
-		<description>(Gakuen)1A_Bra_B</description>
-		<label>(Gakuen)1A_Bra_B</label>
+		<defName>Anneli_Gakuen_CatBra</defName>
+		<description>(Gakuen)1A_CatBra</description>
+		<label>(Gakuen)1A_CatBra</label>
 		<graphicData>
-			<texPath>1A/Anneli_Gakuen_Bra_B</texPath>
+			<texPath>1A/Anneli_Gakuen_CatBra</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>1A/Anneli_Gakuen_Bra_B</wornGraphicPath>
+			<wornGraphicPath>1A/Anneli_Gakuen_CatBra</wornGraphicPath>
 			<tags>
 				<li>Anneli_Gakuen_Common</li>
 			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(75,65,70,225)</only>
+				</li>
+			</options>
+		</colorGenerator>
 	</ThingDef>
+
+<!--Anneli_Gakuen_HalterNeckBra-->
+	<ThingDef ParentName="Anneli_Gakuen_1A">
+		<defName>Anneli_Gakuen_HalterNeckBra</defName>
+		<description>(Gakuen)1A_HalterNeckBra</description>
+		<label>(Gakuen)1A_HalterNeckBra</label>
+		<graphicData>
+			<texPath>1A/Anneli_Gakuen_HalterNeckBra</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1A/Anneli_Gakuen_HalterNeckBra</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Common</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(250,240,240,225)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+<!--Anneli_Gakuen_ChestWrap-->
+	<ThingDef ParentName="Anneli_Gakuen_1A">
+		<defName>Anneli_Gakuen_ChestWrap</defName>
+		<description>(Gakuen)1A_ChestWrap</description>
+		<label>(Gakuen)1A_ChestWrap</label>
+		<graphicData>
+			<texPath>1A/Anneli_Gakuen_ChestWrap</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>1A/Anneli_Gakuen_ChestWrap</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Common</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(250,240,240,225)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>	
 
 </Defs>
