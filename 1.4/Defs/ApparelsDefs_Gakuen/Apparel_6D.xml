@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Gakuen_6D" ParentName="Anneli_Gakuen_ApparelCommonBase"  Abstract="True">
+		<costStuffCount>20</costStuffCount>
+		<statBases>
+			<WorkToMake>200</WorkToMake>
+			<Mass>0.5</Mass>
+			<EquipDelay>1</EquipDelay>
+		</statBases>
+		<equippedStatOffsets>
+			<ComfyTemperatureMin>-5</ComfyTemperatureMin>
+			<ComfyTemperatureMax>5</ComfyTemperatureMax>
+		</equippedStatOffsets>
+		<apparel>
+			<forceRenderUnderHair>true</forceRenderUnderHair>
+			<!-- <hatRenderedFrontOfFace>true</hatRenderedFrontOfFace> -->
+      		<!-- <hatRenderedAboveBody>true</hatRenderedAboveBody> -->
+			<!-- <hatRenderedBehindHead>true</hatRenderedBehindHead> -->
+			<bodyPartGroups>
+				<li>Shoulders</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Overhead</li>
+			</layers>
+			<tags>
+				<li>Anneli_Gakuen</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+	
+	<ThingDef Name="Anneli_Gakuen_6D_NonMetal" ParentName="Anneli_Gakuen_6D"  Abstract="True">
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.2</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.2</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.5</Flammability>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Gakuen_6D_Metal" ParentName="Anneli_Gakuen_6D"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.75</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.75</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.75</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.15</Flammability>
+		</statBases>
+	</ThingDef>
+	
+<!--Anneli_Gakuen_Scarf_A-->
+	<ThingDef ParentName="Anneli_Gakuen_6D_NonMetal">
+		<defName>Anneli_Gakuen_Scarf_A</defName>
+		<description>(Gakuen)6D_Scarf_Grey</description>
+		<label>(Gakuen)6D_Scarf_Grey</label>
+		<graphicData>
+			<texPath>6D/Anneli_Gakuen_Scarf_A</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6D/Anneli_Gakuen_Scarf_A</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Kitakubu_A</li>
+				<li>Anneli_Gakuen_Kitakubu_B</li>
+				<li>Anneli_Gakuen_Tsuppari</li>
+				<li>Anneli_Gakuen_Sabagebu_A</li>
+				<li>Anneli_Gakuen_Sabagebu_B</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Gakuen_Scarf_B-->
+	<ThingDef ParentName="Anneli_Gakuen_6D_NonMetal">
+		<defName>Anneli_Gakuen_Scarf_B</defName>
+		<description>(Gakuen)6D_Scarf_Red</description>
+		<label>(Gakuen)6D_Scarf_Red</label>
+		<graphicData>
+			<texPath>6D/Anneli_Gakuen_Scarf_B</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6D/Anneli_Gakuen_Scarf_B</wornGraphicPath>
+			<tags>
+				<li>Anneli_Gakuen_Kitakubu_A</li>
+				<li>Anneli_Gakuen_Kitakubu_B</li>
+				<li>Anneli_Gakuen_Sukeban</li>
+				<li>Anneli_Gakuen_Sabagebu_A</li>
+				<li>Anneli_Gakuen_Sabagebu_B</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+</Defs>

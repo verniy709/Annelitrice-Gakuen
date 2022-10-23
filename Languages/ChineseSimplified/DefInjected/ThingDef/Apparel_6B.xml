@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_Glasses_A -->
+
+  <Anneli_Gakuen_Glasses_A.label>(学园)6B_Glasses_A</Anneli_Gakuen_Glasses_A.label>
+  <Anneli_Gakuen_Glasses_A.description>(学园)6B_Glasses_A</Anneli_Gakuen_Glasses_A.description>
+
+
+  <!-- Anneli_Gakuen_Glasses_B -->
+
+  <Anneli_Gakuen_Glasses_B.label>(学园)6B_眼镜_B</Anneli_Gakuen_Glasses_B.label>
+  <Anneli_Gakuen_Glasses_B.description>(学园)6B_眼镜_B</Anneli_Gakuen_Glasses_B.description>
+
+
+  <!-- Anneli_Gakuen_InvisibleGlasses -->
+
+  <Anneli_Gakuen_InvisibleGlasses.label>(学园)6B_隐形眼镜</Anneli_Gakuen_InvisibleGlasses.label>
+  <Anneli_Gakuen_InvisibleGlasses.description>(学园)6B_隐形眼镜</Anneli_Gakuen_InvisibleGlasses.description>
+
+
+  <!-- Anneli_Gakuen_Sunglasses -->
+
+  <Anneli_Gakuen_Sunglasses.label>(学园)6B_墨镜</Anneli_Gakuen_Sunglasses.label>
+  <Anneli_Gakuen_Sunglasses.description>(学园)6B_墨镜</Anneli_Gakuen_Sunglasses.description>
+
+
+</LanguageData>
