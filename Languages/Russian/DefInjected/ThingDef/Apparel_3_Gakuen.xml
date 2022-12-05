@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_Sportswear_A -->
+
+  <Anneli_Gakuen_Sportswear_A.description>Это разновидность спортивной одежды. Поскольку его легко носить, его часто используют в повседневной носке.</Anneli_Gakuen_Sportswear_A.description>
+  <Anneli_Gakuen_Sportswear_A.label>Спортивная одежда</Anneli_Gakuen_Sportswear_A.label>
+
+
+  <!-- Anneli_Gakuen_Sportswear_B -->
+
+  <Anneli_Gakuen_Sportswear_B.description>Это разновидность спортивной одежды с V-образным вырезом. Поскольку его легко носить, его часто используют в повседневной носке.</Anneli_Gakuen_Sportswear_B.description>
+  <Anneli_Gakuen_Sportswear_B.label>Спортивная одежда с вырезом</Anneli_Gakuen_Sportswear_B.label>
+
+
+  <!-- Anneli_Gakuen_Suit_Black_A -->
+
+  <Anneli_Gakuen_Suit_Black_A.description>Это своего рода костюм.</Anneli_Gakuen_Suit_Black_A.description>
+  <Anneli_Gakuen_Suit_Black_A.label>Черный костюм</Anneli_Gakuen_Suit_Black_A.label>
+
+
+  <!-- Anneli_Gakuen_Suit_Black_B -->
+
+  <Anneli_Gakuen_Suit_Black_B.description>Это своего рода костюм с V-образным вырезом.</Anneli_Gakuen_Suit_Black_B.description>
+  <Anneli_Gakuen_Suit_Black_B.label>Черный костюм с вырезом</Anneli_Gakuen_Suit_Black_B.label>
+
+
+  <!-- Anneli_Gakuen_Suit_Blue_A -->
+
+  <Anneli_Gakuen_Suit_Blue_A.description>Это своего рода костюм.</Anneli_Gakuen_Suit_Blue_A.description>
+  <Anneli_Gakuen_Suit_Blue_A.label>Синий костюм</Anneli_Gakuen_Suit_Blue_A.label>
+
+
+  <!-- Anneli_Gakuen_Suit_Blue_B -->
+
+  <Anneli_Gakuen_Suit_Blue_B.description>Это своего рода костюм с V-образным вырезом.</Anneli_Gakuen_Suit_Blue_B.description>
+  <Anneli_Gakuen_Suit_Blue_B.label>Синий костюм с вырезом</Anneli_Gakuen_Suit_Blue_B.label>
+
+
+  <!-- Anneli_Gakuen_Sweater -->
+
+  <Anneli_Gakuen_Sweater.description>Это свитер с V-образным вырезом.Существует множество вариаций.</Anneli_Gakuen_Sweater.description>
+  <Anneli_Gakuen_Sweater.label>Свитер с V-образным вырезом</Anneli_Gakuen_Sweater.label>
+
+
+  <!-- Anneli_Gakuen_YankeeSuit -->
+
+  <Anneli_Gakuen_YankeeSuit.description>Это школьная форма с воротником, которую должен носить ученик мужского пола.</Anneli_Gakuen_YankeeSuit.description>
+  <Anneli_Gakuen_YankeeSuit.label>Школьная форма</Anneli_Gakuen_YankeeSuit.label>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_Glasses_A -->
+
+  <Anneli_Gakuen_Glasses_A.description>(学園)6B\n\nЭто то, что можно носить для коррекции зрения, защиты глаз или моды.</Anneli_Gakuen_Glasses_A.description>
+  <Anneli_Gakuen_Glasses_A.label>Очки А</Anneli_Gakuen_Glasses_A.label>
+
+
+  <!-- Anneli_Gakuen_Glasses_B -->
+
+  <Anneli_Gakuen_Glasses_B.description>Это то, что можно носить для коррекции зрения, защиты глаз или моды.</Anneli_Gakuen_Glasses_B.description>
+  <Anneli_Gakuen_Glasses_B.label>Очки Б</Anneli_Gakuen_Glasses_B.label>
+
+
+  <!-- Anneli_Gakuen_InvisibleGlasses -->
+
+  <Anneli_Gakuen_InvisibleGlasses.description>Крепится непосредственно к глазу для коррекции зрения.Он также используется для изменения цвета глаз.</Anneli_Gakuen_InvisibleGlasses.description>
+  <Anneli_Gakuen_InvisibleGlasses.label>Контактные линзы</Anneli_Gakuen_InvisibleGlasses.label>
+
+
+  <!-- Anneli_Gakuen_Sunglasses -->
+
+  <Anneli_Gakuen_Sunglasses.description>Очки темного цвета для защиты ваших глаз от сильного солнечного света.</Anneli_Gakuen_Sunglasses.description>
+  <Anneli_Gakuen_Sunglasses.label>Солнцезащитые очки</Anneli_Gakuen_Sunglasses.label>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adulthood -->
+
+  <Anneli_Gakuen_AverageStudent.title>Студентка</Anneli_Gakuen_AverageStudent.title>
+  <Anneli_Gakuen_AverageStudent.titleShort>Студентка</Anneli_Gakuen_AverageStudent.titleShort>
+  <Anneli_Gakuen_AverageStudent.baseDesc>{PAWN_nameDef}Обычный студент академии..</Anneli_Gakuen_AverageStudent.baseDesc>
+
+  <Anneli_Gakuen_MusicClub.title>Староста класса</Anneli_Gakuen_MusicClub.title>
+  <Anneli_Gakuen_MusicClub.titleShort>Староста</Anneli_Gakuen_MusicClub.titleShort>
+  <Anneli_Gakuen_MusicClub.baseDesc>{PAWN_nameDef} — выборный глава небольшого коллектива</Anneli_Gakuen_MusicClub.baseDesc>
+
+  <Anneli_Gakuen_BaseballPlayer.title>Спортсменка класса</Anneli_Gakuen_BaseballPlayer.title>
+  <Anneli_Gakuen_BaseballPlayer.titleShort>Спортсменка</Anneli_Gakuen_BaseballPlayer.titleShort>
+  <Anneli_Gakuen_BaseballPlayer.baseDesc>{PAWN_nameDef} она является членом школьной бейсбольной команды. Летом ее команда 5 лет подряд выигрывала на соревнованиях.</Anneli_Gakuen_BaseballPlayer.baseDesc>
+
+  <Anneli_Gakuen_GardenClub.title>Стрелок класса</Anneli_Gakuen_GardenClub.title>
+  <Anneli_Gakuen_GardenClub.titleShort>Стрелок</Anneli_Gakuen_GardenClub.titleShort>
+  <Anneli_Gakuen_GardenClub.baseDesc>{PAWN_nameDef} она смелая девушка и лучшая в своем класе по стрельбе из лука.</Anneli_Gakuen_GardenClub.baseDesc>
+
+  <Anneli_Gakuen_CatCafe.title>Охраник академии</Anneli_Gakuen_CatCafe.title>
+  <Anneli_Gakuen_CatCafe.titleShort>Охраник</Anneli_Gakuen_CatCafe.titleShort>
+  <Anneli_Gakuen_CatCafe.baseDesc>{PAWN_nameDef} специалист, несущий службу по охране в Академии.</Anneli_Gakuen_CatCafe.baseDesc>
+
+  <Anneli_Gakuen_SculptureClub.title>Учитель академии</Anneli_Gakuen_SculptureClub.title>
+  <Anneli_Gakuen_SculptureClub.titleShort>Учитель</Anneli_Gakuen_SculptureClub.titleShort>
+  <Anneli_Gakuen_SculptureClub.baseDesc>{PAWN_nameDef} специалист, который занимается обучением и воспитанием детей, а также профессиональной подготовкой взрослых. Речь идет не только о преподавании, но и о наставничестве, психологической поддержке и партнерстве.</Anneli_Gakuen_SculptureClub.baseDesc>
+
+  <Anneli_Gakuen_CookingClub.title>Повар академии</Anneli_Gakuen_CookingClub.title>
+  <Anneli_Gakuen_CookingClub.titleShort>Повар</Anneli_Gakuen_CookingClub.titleShort>
+  <Anneli_Gakuen_CookingClub.baseDesc>{PAWN_nameDef} специальностью которого является приготовление пищи.</Anneli_Gakuen_CookingClub.baseDesc>
+
+  <Anneli_Gakuen_KarateClub.title>Заведующий академии</Anneli_Gakuen_KarateClub.title>
+  <Anneli_Gakuen_KarateClub.titleShort>Заведующий</Anneli_Gakuen_KarateClub.titleShort>
+  <Anneli_Gakuen_KarateClub.baseDesc>{PAWN_nameDef} Должностное лицо, которое заведует, управляет чем-либо.</Anneli_Gakuen_KarateClub.baseDesc>
+
+  <Anneli_Gakuen_OutingClub.title>Директор академии</Anneli_Gakuen_OutingClub.title>
+  <Anneli_Gakuen_OutingClub.titleShort>Директор</Anneli_Gakuen_OutingClub.titleShort>
+  <Anneli_Gakuen_OutingClub.baseDesc>{PAWN_nameDef} занимает высшую должность в академии, наделённая полномочиями выбора стратегии развития академии, работы с кадрами и определения финансовых потоков предприятия. Однако, при ряде условий, в некоторых организациях должность директора может быть формальной или отсутствовать вообще.</Anneli_Gakuen_OutingClub.baseDesc>
+
+  <Anneli_Gakuen_StudentAssociation.title>Сотрудник совета</Anneli_Gakuen_StudentAssociation.title>
+  <Anneli_Gakuen_StudentAssociation.titleShort>Сотрудник студенческого совета</Anneli_Gakuen_StudentAssociation.titleShort>
+  <Anneli_Gakuen_StudentAssociation.baseDesc>{PAWN_nameDef} является ученицей Академии "Красной луны" и также является членом студенческого совета.</Anneli_Gakuen_StudentAssociation.baseDesc>
+
+
+</LanguageData>

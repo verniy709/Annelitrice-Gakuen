@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_BunnySlippers -->
+
+  <Anneli_Gakuen_BunnySlippers.description>Тапочки с кроликом.</Anneli_Gakuen_BunnySlippers.description>
+  <Anneli_Gakuen_BunnySlippers.label>Тапочки с кроликом</Anneli_Gakuen_BunnySlippers.label>
+
+
+  <!-- Anneli_Gakuen_LeatherShoes_Black -->
+
+  <Anneli_Gakuen_LeatherShoes_Black.description>Это разновидность кожаной обуви и школьной обуви для учениц.</Anneli_Gakuen_LeatherShoes_Black.description>
+  <Anneli_Gakuen_LeatherShoes_Black.label>Черные ботинки</Anneli_Gakuen_LeatherShoes_Black.label>
+
+
+  <!-- Anneli_Gakuen_LeatherShoes_Brown -->
+
+  <Anneli_Gakuen_LeatherShoes_Brown.description>Это разновидность кожаной обуви и школьной обуви для учениц.</Anneli_Gakuen_LeatherShoes_Brown.description>
+  <Anneli_Gakuen_LeatherShoes_Brown.label>Коричневые ботинки</Anneli_Gakuen_LeatherShoes_Brown.label>
+
+
+  <!-- Anneli_Gakuen_Platforms -->
+
+  <Anneli_Gakuen_Platforms.description>Это мягкая обувь, которую удобно носить и которая подходит для занятий спортом.</Anneli_Gakuen_Platforms.description>
+  <Anneli_Gakuen_Platforms.label>Кроссовки</Anneli_Gakuen_Platforms.label>
+
+
+  <!-- Anneli_Gakuen_Slippers -->
+
+  <Anneli_Gakuen_Slippers.description>Это обувь, которая выдерживает большое воздействие и обладает хорошей воздухопроницаемостью.</Anneli_Gakuen_Slippers.description>
+  <Anneli_Gakuen_Slippers.label>Сандали</Anneli_Gakuen_Slippers.label>
+
+
+  <!-- Anneli_Gakuen_SportsShoes_A -->
+
+  <Anneli_Gakuen_SportsShoes_A.description>Обувь подходит для занятий спортом, ткань плотная и эластичная.Есть много мест, где можно носить кроссовки.</Anneli_Gakuen_SportsShoes_A.description>
+  <Anneli_Gakuen_SportsShoes_A.label>Спортивная обувь 1</Anneli_Gakuen_SportsShoes_A.label>
+
+
+  <!-- Anneli_Gakuen_SportsShoes_B -->
+
+  <Anneli_Gakuen_SportsShoes_B.description>Обувь подходит для занятий спортом, ткань плотная и эластичная.Есть много мест, где можно носить кроссовки.</Anneli_Gakuen_SportsShoes_B.description>
+  <Anneli_Gakuen_SportsShoes_B.label>Спортивная обувь 2</Anneli_Gakuen_SportsShoes_B.label>
+
+
+  <!-- Anneli_Gakuen_Uwabaki -->
+
+  <Anneli_Gakuen_Uwabaki.description>Это обувь для ношения в помещении, которая не должна пачкать ноги, например, в школьном здании.</Anneli_Gakuen_Uwabaki.description>
+  <Anneli_Gakuen_Uwabaki.label>Увабаки</Anneli_Gakuen_Uwabaki.label>
+
+
+</LanguageData>

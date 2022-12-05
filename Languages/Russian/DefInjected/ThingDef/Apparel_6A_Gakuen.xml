@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_Bear -->
+
+  <Anneli_Gakuen_Bear.description>Это заколка для волос милого медвежонка.</Anneli_Gakuen_Bear.description>
+  <Anneli_Gakuen_Bear.label>Медвежья заколка для волос</Anneli_Gakuen_Bear.label>
+
+
+  <!-- Anneli_Gakuen_Bunny -->
+
+  <Anneli_Gakuen_Bunny.description>Это заколка для волос милого зайки.</Anneli_Gakuen_Bunny.description>
+  <Anneli_Gakuen_Bunny.label>Заячья заколка для волос</Anneli_Gakuen_Bunny.label>
+
+
+  <!-- Anneli_Gakuen_Frog -->
+
+  <Anneli_Gakuen_Frog.description>Это заколка для волос милой керочан.</Anneli_Gakuen_Frog.description>
+  <Anneli_Gakuen_Frog.label>Керочанская заколка для волос</Anneli_Gakuen_Frog.label>
+
+
+  <!-- Anneli_Gakuen_Beret -->
+
+  <Anneli_Gakuen_Beret.description>Это своего рода шляпа без полей, которая имеет сильный образ художника, носящего ее, но она также используется в качестве шляпы для студентов.</Anneli_Gakuen_Beret.description>
+  <Anneli_Gakuen_Beret.label>Берет</Anneli_Gakuen_Beret.label>
+
+
+  <!-- Anneli_Gakuen_Hachimaki -->
+
+  <Anneli_Gakuen_Hachimaki.description>Это длинная ткань, обернутая вокруг лба. Это часто приписывается вспыльчивому человеку или боевому идиоту.</Anneli_Gakuen_Hachimaki.description>
+  <Anneli_Gakuen_Hachimaki.label>Головная повязка</Anneli_Gakuen_Hachimaki.label>
+
+
+  <!-- Anneli_Gakuen_HairBand_A -->
+
+  <Anneli_Gakuen_HairBand_A.description>Это своего рода украшение для волос, а также, как говорят, повязка на голову.</Anneli_Gakuen_HairBand_A.description>
+  <Anneli_Gakuen_HairBand_A.label>Лента для волос А</Anneli_Gakuen_HairBand_A.label>
+
+
+  <!-- Anneli_Gakuen_HairBand_B -->
+
+  <Anneli_Gakuen_HairBand_B.description>Это своего рода украшение для волос, а также, как говорят, повязка на голову.</Anneli_Gakuen_HairBand_B.description>
+  <Anneli_Gakuen_HairBand_B.label>Лента для волос Б</Anneli_Gakuen_HairBand_B.label>
+
+
+  <!-- Anneli_Gakuen_Headset_Grey_A -->
+
+  <Anneli_Gakuen_Headset_Grey_A.description>Это акустическое устройство для прослушивания музыки.Не только для прослушивания музыки, но и с целью блокирования звука извне.</Anneli_Gakuen_Headset_Grey_A.description>
+  <Anneli_Gakuen_Headset_Grey_A.label>Наушники черные</Anneli_Gakuen_Headset_Grey_A.label>
+
+
+  <!-- Anneli_Gakuen_Headset_Red_A -->
+
+  <Anneli_Gakuen_Headset_Red_A.description>Это акустическое устройство для прослушивания музыки.Не только для прослушивания музыки, но и с целью блокирования звука извне.</Anneli_Gakuen_Headset_Red_A.description>
+  <Anneli_Gakuen_Headset_Red_A.label>Наушники красные</Anneli_Gakuen_Headset_Red_A.label>
+
+
+  <!-- Anneli_Gakuen_Headset_Grey_B -->
+
+  <Anneli_Gakuen_Headset_Grey_B.description>Это наушники с кошачьими ушками. Почему кошачьи уши? Потому что это мило.</Anneli_Gakuen_Headset_Grey_B.description>
+  <Anneli_Gakuen_Headset_Grey_B.label>Наушники черные с ушками</Anneli_Gakuen_Headset_Grey_B.label>
+
+
+  <!-- Anneli_Gakuen_Headset_Red_B -->
+
+  <Anneli_Gakuen_Headset_Red_B.description>Это наушники с кошачьими ушками. Почему кошачьи уши? Потому что это мило.</Anneli_Gakuen_Headset_Red_B.description>
+  <Anneli_Gakuen_Headset_Red_B.label>Наушники красные с ушками</Anneli_Gakuen_Headset_Red_B.label>
+
+
+  <!-- Anneli_Gakuen_MotorHelmet -->
+
+  <Anneli_Gakuen_MotorHelmet.description>Это шлем для защиты головы.Обязательно надевайте его при езде на мотоцикле или скутере.</Anneli_Gakuen_MotorHelmet.description>
+  <Anneli_Gakuen_MotorHelmet.label>Мото-шлем</Anneli_Gakuen_MotorHelmet.label>
+
+
+  <!-- Anneli_Gakuen_SummerHat -->
+
+  <Anneli_Gakuen_SummerHat.description>Это шляпа с очень широкими полями, которая очень хорошо смотрится на молодой леди в белом летнем платье.Это выглядит очень ярко с подсолнухом в качестве фона.</Anneli_Gakuen_SummerHat.description>
+  <Anneli_Gakuen_SummerHat.label>Летняя шляпа</Anneli_Gakuen_SummerHat.label>
+
+
+  <!-- Anneli_Gakuen_VisorHat -->
+
+  <Anneli_Gakuen_VisorHat.description>Это своего рода шляпа для защиты от солнца, в основном для защиты глаз от прямых солнечных лучей.</Anneli_Gakuen_VisorHat.description>
+  <Anneli_Gakuen_VisorHat.label>Кепка</Anneli_Gakuen_VisorHat.label>
+
+
+</LanguageData>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_CheerLeaderDress -->
+
+  <Anneli_Gakuen_CheerLeaderDress.description>Это мини-юбка, которую носят черлидерши.</Anneli_Gakuen_CheerLeaderDress.description>
+  <Anneli_Gakuen_CheerLeaderDress.label>Юбка черлидерши</Anneli_Gakuen_CheerLeaderDress.label>
+
+
+  <!-- Anneli_Gakuen_GymShorts -->
+
+  <Anneli_Gakuen_GymShorts.description>Это темно-синяя одежда типа шорт, которую женщины надевают на нижнюю часть тела во время тренировок.В стране под названием Япония на определенной планете это должно было способствовать легкости движений, но подверглось суровой критике как дизайн, подобный нижнему белью, и исчезло.</Anneli_Gakuen_GymShorts.description>
+  <Anneli_Gakuen_GymShorts.label>Школьные шортики</Anneli_Gakuen_GymShorts.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_A_L -->
+
+  <Anneli_Gakuen_PleatedSkirt_A_L.description>Это модифицированная юбка достаточной длины, чтобы прикрыть лодыжку.</Anneli_Gakuen_PleatedSkirt_A_L.description>
+  <Anneli_Gakuen_PleatedSkirt_A_L.label>Длиная юбка в клетку</Anneli_Gakuen_PleatedSkirt_A_L.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_A_M -->
+
+  <Anneli_Gakuen_PleatedSkirt_A_M.description>Это юбка мини-длины обычной школьной формы.В одной северной стране была студентка, у которой хватило смелости носить мини-юбку даже в холод.</Anneli_Gakuen_PleatedSkirt_A_M.description>
+  <Anneli_Gakuen_PleatedSkirt_A_M.label>Мини-юбка в клетку</Anneli_Gakuen_PleatedSkirt_A_M.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_A_S -->
+
+  <Anneli_Gakuen_PleatedSkirt_A_S.description>Это супер мини-юбка в клетку, длина которой была значительно сокращена.</Anneli_Gakuen_PleatedSkirt_A_S.description>
+  <Anneli_Gakuen_PleatedSkirt_A_S.label>Супер мини-юбка в клетку</Anneli_Gakuen_PleatedSkirt_A_S.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_B_L -->
+
+  <Anneli_Gakuen_PleatedSkirt_B_L.description>Это модифицированная юбка достаточной длины, чтобы прикрыть лодыжку.</Anneli_Gakuen_PleatedSkirt_B_L.description>
+  <Anneli_Gakuen_PleatedSkirt_B_L.label>Синия длиная юбка</Anneli_Gakuen_PleatedSkirt_B_L.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_B_M -->
+
+  <Anneli_Gakuen_PleatedSkirt_B_M.description>Это юбка мини-длины обычной школьной формы.В одной северной стране была студентка, у которой хватило смелости носить мини-юбку даже в холод.</Anneli_Gakuen_PleatedSkirt_B_M.description>
+  <Anneli_Gakuen_PleatedSkirt_B_M.label>Синия короткая юбка</Anneli_Gakuen_PleatedSkirt_B_M.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_B_S -->
+
+  <Anneli_Gakuen_PleatedSkirt_B_S.description>Это супер мини-юбка в клетку, длина которой была значительно сокращена.</Anneli_Gakuen_PleatedSkirt_B_S.description>
+  <Anneli_Gakuen_PleatedSkirt_B_S.label>Синия супер мини-юбка</Anneli_Gakuen_PleatedSkirt_B_S.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_C_L -->
+
+  <Anneli_Gakuen_PleatedSkirt_C_L.description>Это модифицированная юбка достаточной длины, чтобы прикрыть лодыжку.</Anneli_Gakuen_PleatedSkirt_C_L.description>
+  <Anneli_Gakuen_PleatedSkirt_C_L.label>Черная длинная юбка</Anneli_Gakuen_PleatedSkirt_C_L.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_C_M -->
+
+  <Anneli_Gakuen_PleatedSkirt_C_M.description>Это юбка мини-длины обычной школьной формы.В одной северной стране была студентка, у которой хватило смелости носить мини-юбку даже в холод.</Anneli_Gakuen_PleatedSkirt_C_M.description>
+  <Anneli_Gakuen_PleatedSkirt_C_M.label>Черная Мини-юбка</Anneli_Gakuen_PleatedSkirt_C_M.label>
+
+
+  <!-- Anneli_Gakuen_PleatedSkirt_C_S -->
+
+  <Anneli_Gakuen_PleatedSkirt_C_S.description>Это супер мини-юбка в клетку, длина которой была значительно сокращена.</Anneli_Gakuen_PleatedSkirt_C_S.description>
+  <Anneli_Gakuen_PleatedSkirt_C_S.label>Черная супер мини-юбка</Anneli_Gakuen_PleatedSkirt_C_S.label>
+
+
+  <!-- Anneli_Gakuen_YankeePants_A -->
+
+  <Anneli_Gakuen_YankeePants_A.description>Это одна из деформированных школьных форм, брюки от талии до низа сильно утолщены.</Anneli_Gakuen_YankeePants_A.description>
+  <Anneli_Gakuen_YankeePants_A.label>Брюки</Anneli_Gakuen_YankeePants_A.label>
+
+
+  <!-- Anneli_Gakuen_YankeePants_B -->
+
+  <Anneli_Gakuen_YankeePants_B.description>Это одна из деформированных школьных форм, и цепочка прикреплена в качестве акцента к брюкам, которые становятся значительно толще от талии к низу.</Anneli_Gakuen_YankeePants_B.description>
+  <Anneli_Gakuen_YankeePants_B.label>Брюки с цепочкой</Anneli_Gakuen_YankeePants_B.label>
+
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_CheerLeaderTop -->
+
+  <Anneli_Gakuen_CheerLeaderTop.description>Это форменная куртка, которую носит черлидерша.</Anneli_Gakuen_CheerLeaderTop.description>
+  <Anneli_Gakuen_CheerLeaderTop.label>Топ черлидершы</Anneli_Gakuen_CheerLeaderTop.label>
+
+
+  <!-- Anneli_Gakuen_GymShirt -->
+
+  <Anneli_Gakuen_GymShirt.description>Это спортивная одежда, которую часто носят на занятиях гимнастикой и физкультурой.</Anneli_Gakuen_GymShirt.description>
+  <Anneli_Gakuen_GymShirt.label>Спортивная одежда</Anneli_Gakuen_GymShirt.label>
+
+
+  <!-- Anneli_Gakuen_SailotSuit_A -->
+
+  <Anneli_Gakuen_SailotSuit_A.description>Первоначально это была униформа для моряков, но она стала использоваться как униформа для студенток.</Anneli_Gakuen_SailotSuit_A.description>
+  <Anneli_Gakuen_SailotSuit_A.label>Матросский костюм - Белый</Anneli_Gakuen_SailotSuit_A.label>
+
+
+  <!-- Anneli_Gakuen_SailotSuit_B -->
+
+  <Anneli_Gakuen_SailotSuit_B.description>Первоначально это была униформа для моряков, но она стала использоваться как униформа для студенток.</Anneli_Gakuen_SailotSuit_B.description>
+  <Anneli_Gakuen_SailotSuit_B.label>Матросский костюм - Черный</Anneli_Gakuen_SailotSuit_B.label>
+
+
+  <!-- Anneli_Gakuen_SailotSuit_C -->
+
+  <Anneli_Gakuen_SailotSuit_C.description>Первоначально это была униформа для моряков, но она стала использоваться как униформа для студенток.</Anneli_Gakuen_SailotSuit_C.description>
+  <Anneli_Gakuen_SailotSuit_C.label>Матросский костюм - Синий</Anneli_Gakuen_SailotSuit_C.label>
+
+
+  <!-- Anneli_Gakuen_Shirt_A -->
+
+  <Anneli_Gakuen_Shirt_A.description>Это свободная блузка в стиле рубашки, в основном для женщин и детей..</Anneli_Gakuen_Shirt_A.description>
+  <Anneli_Gakuen_Shirt_A.label>Блузка</Anneli_Gakuen_Shirt_A.label>
+
+
+  <!-- Anneli_Gakuen_Shirt_B -->
+
+  <Anneli_Gakuen_Shirt_B.description>Это блузка в стиле рубашки со свободным галстуком, в основном для женщин и детей.</Anneli_Gakuen_Shirt_B.description>
+  <Anneli_Gakuen_Shirt_B.label>Блузка с галстуком</Anneli_Gakuen_Shirt_B.label>
+
+
+</LanguageData>

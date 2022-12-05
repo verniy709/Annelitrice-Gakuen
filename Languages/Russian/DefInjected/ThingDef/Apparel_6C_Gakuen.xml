@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Gakuen_Mask_A -->
+
+  <Anneli_Gakuen_Mask_A.description>Она закрывает нос и рот, чтобы предотвратить проникновение бактерий и посторонних предметов.</Anneli_Gakuen_Mask_A.description>
+  <Anneli_Gakuen_Mask_A.label>Белая маска</Anneli_Gakuen_Mask_A.label>
+
+
+  <!-- Anneli_Gakuen_Mask_B -->
+
+  <Anneli_Gakuen_Mask_B.description>Она закрывает нос и рот, чтобы предотвратить проникновение бактерий и посторонних предметов.</Anneli_Gakuen_Mask_B.description>
+  <Anneli_Gakuen_Mask_B.label>Черная маска</Anneli_Gakuen_Mask_B.label>
+
+
+  <!-- Anneli_Gakuen_Toast -->
+
+  <Anneli_Gakuen_Toast.description>Не бегайте по школьной дорожке с хлебом.Нет никакой романтики, которая начинается, когда вы сталкиваетесь с противоположным полом на углу?</Anneli_Gakuen_Toast.description>
+  <Anneli_Gakuen_Toast.label>Хлебушек</Anneli_Gakuen_Toast.label>
+
+
+</LanguageData>
